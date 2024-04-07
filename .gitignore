@@ -17,3 +17,6 @@ target
 /contrib/docker-compose-example-workplace/config/idx/_status.json
 /contrib/docker-compose-example-workplace/config/_default/
 /contrib/docker-compose-example-workplace/logs/
+contrib/docker-compose-example-opensearch/logs/fscrawler-2024-04-07-7.log.gz
+*.gz
+*.log
